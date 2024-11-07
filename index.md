@@ -3,22 +3,22 @@ title: Indice
 layout: home
 ---
 
-## INDICE
+# INDICE
 
-> # Ingles
+> ## Ingles
 
-> # Entornos de desarrollo
+> ## Entornos de desarrollo
 
-> # Base de Datos
+> ## Base de Datos
 
-> # Programacion
+> ## Programacion
 
-> # Sistemas Ingormaticos
+> ## Sistemas Ingormaticos
 
-> # Lenguaje de Marcas
+> ## Lenguaje de Marcas
 
+> (![imagen]([https://github.com/user-attachments/assets/787fcc3c-82a7-4284-8cf6-d78be54d2e14](https://intecssa.com/wp-content/uploads/2023/04/%C2%BFQue-se-protege-en-seguridad-informatica.jpg))
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
 More specifically, the created site:
 
