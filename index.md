@@ -13,7 +13,7 @@ layout: home
 
 > ## Programacion
 
-> ## Sistemas Ingormaticos
+> ## Sistemas Informaticos
 
 > ## Lenguaje de Marcas
 
