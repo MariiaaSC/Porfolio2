@@ -17,7 +17,7 @@ layout: home
 
 > ## Lenguaje de Marcas
 
-> (![imagen]([https://github.com/user-attachments/assets/787fcc3c-82a7-4284-8cf6-d78be54d2e14](https://intecssa.com/wp-content/uploads/2023/04/%C2%BFQue-se-protege-en-seguridad-informatica.jpg))
+(![imagen]([https://github.com/user-attachments/assets/787fcc3c-82a7-4284-8cf6-d78be54d2e14](https://intecssa.com/wp-content/uploads/2023/04/%C2%BFQue-se-protege-en-seguridad-informatica.jpg))
 
 
 More specifically, the created site:
