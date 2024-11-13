@@ -1,7 +1,8 @@
 ---
 title: Ingles
 layout: home
-parent: home
+nav_order: 1
+parent: Home
 ---
 
 # Tema 1
