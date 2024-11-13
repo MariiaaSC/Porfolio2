@@ -1,15 +1,15 @@
 ---
 title: Indice
 layout: home
+childrens: 6
 ---
 
 # INDICE
 
 > ## Ingles
-   Tema 1
 
 > ## Entornos de desarrollo
-
+   
 > ## Base de Datos
 
 > ## Programacion
