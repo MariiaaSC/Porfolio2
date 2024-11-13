@@ -1,7 +1,7 @@
 ---
 title: Indice
 layout: home
-childrens: 6
+children: 6
 ---
 
 # INDICE
