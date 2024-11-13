@@ -2,7 +2,7 @@
 title: Ingles
 layout: home
 nav_order: 1
-parent: Home
+parent: Indice
 ---
 
 # Tema 1
