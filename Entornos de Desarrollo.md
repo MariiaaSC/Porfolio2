@@ -13,8 +13,8 @@ parent: Indice
 
 ## TEMA 2
   · Gestion y desarrollo de documentacioon tecnica
-    > GitHub
-    > Markdown
+    · GitHub
+    · Markdown
 
 ## TEMA 3
   · Diseño y realizacion de pruebas
