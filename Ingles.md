@@ -13,7 +13,6 @@ parent: Indice
 
   -> Presente Simple
 
-  ## TEMA 2
+##TEMA 2
     -> Partes del ordenador
-
     -> To Be
