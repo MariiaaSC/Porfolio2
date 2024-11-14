@@ -5,6 +5,4 @@ nav_order: 1
 parent: Indice
 ---
 
-# Tema 1
-
-- Vocabulario y Presente simple
+!![Descripción de la imagen](https://www.iestetuan.es/img/stories/13.jpg)
